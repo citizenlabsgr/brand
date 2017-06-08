@@ -1,7 +1,7 @@
 # Logo Examples
 
 Logo 1 [Logo-1.png](https://github.com/citizenlabsgr/brand/blob/master/logo/Logo-01.png)
-![Logo 1](/images/2017/06/Logo-01.png)
+![Logo 1](Logo-01.png)
 Logo 2
 [Logo-1.png](https://github.com/citizenlabsgr/brand/blob/master/logo/Logo-02.png)
 
