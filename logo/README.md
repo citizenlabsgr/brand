@@ -1,7 +1,7 @@
 # Logo Examples
 
-Logo 1 [Logo-1.png](https://github.com/citizenlabsgr/brand/blob/master/logo/Logo-01.png)
-<img src="Logo-01.png" height="48">
+[Logo 1](https://github.com/citizenlabsgr/brand/blob/master/logo/Logo-01.png)
+<img src="Logo-01.png" height="200">
 
 ![Logo 1](Logo-01.png)
 
