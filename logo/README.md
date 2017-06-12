@@ -5,9 +5,8 @@
 <img src="Logo-01.png" height="300">
 
 ### [Logo 2](https://github.com/citizenlabsgr/brand/blob/master/logo/Logo-02.png)
-```
+
 <img src="Logo-02.png" height="300">
-```
 
 ### [Logo 3](https://github.com/citizenlabsgr/brand/blob/master/logo/Logo-03.png)
 
