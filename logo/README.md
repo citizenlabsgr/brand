@@ -4,7 +4,7 @@
 
 <img src="Logo-01.png" height="300">
 
-### [Logo 2](https://github.com/citizenlabsgr/brand/blob/master/logo/Logo-02.png)
+### [Logo 2](https://github.com/citizenlabsgr/brand/blob/master/logo/Logo-02.png) White logo with transparent background.
 
 <img src="Logo-02.png" height="300">
 
